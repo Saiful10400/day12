@@ -1,0 +1,30 @@
+.texdec{
+    text-decoration: overline;
+}
+.safiul1{
+    text-transform: lowercase;
+}
+.saiful2{
+   word-spacing: 12;
+}
+.saiful3{
+    
+}
+.this_is_for_underline{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 32;
+    text-transform: uppercase;
+    letter-spacing: 15;
+    line-height: 50px;
+    word-spacing: 25px;
+}
+.alochaya{
+    text-align: center;
+    font-size: 50;
+    text-transform: capitalize;
+    text-shadow: 15px 10px 10px green;
+    text-decoration: overline;
+    word-spacing: 10px;
+
+}
